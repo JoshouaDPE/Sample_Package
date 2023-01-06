@@ -9,3 +9,7 @@ Sample for the python packaging, testing and CI/CD pipeline
 
 *start packaging* 
 pip install -e .
+get package from gitHub
+```
+pip install "git+https://github.com/JoshouaDPE/Sample_Package.git"
+```
