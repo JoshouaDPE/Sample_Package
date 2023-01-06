@@ -3,21 +3,6 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "logger_pkg_joshoua"
-version = "0.0.1"
-authors = [
-  { name="Joshoua Bigler"},
-]
-description = "A small example package"
-readme = "README.md"
-requires-python = ">=3.7"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-]
-
-[project]
 name = "data_analysis"
 version = "0.0.1"
 authors = [
